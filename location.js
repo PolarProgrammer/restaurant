@@ -1,5 +1,7 @@
 const hbox = document.querySelector(".hours");
 
+//HI
+
 let days = [
   { isOpen: false, day: "Mon", time: "time" },
   { day: "Tue" },
